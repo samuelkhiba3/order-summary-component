@@ -17,4 +17,4 @@ git clone https://github.com/samuelkhiba3/order-summary-component.git
 ```
 ## Screenshot
 Here's preview:
-![Order Summary Screenshot] (images/screenshot%20(204).png)
+![Order Summary Screenshot] (images/Screenshot%20(204).png)
